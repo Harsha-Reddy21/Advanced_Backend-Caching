@@ -1,6 +1,0 @@
-fastapi
-sqlalchemy[asyncio]
-aiosqlite
-email-validator
-uvicorn
-python-multipart
